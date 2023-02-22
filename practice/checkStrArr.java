@@ -1,3 +1,4 @@
+package practice;
 public class checkStrArr {
   public static void main(String[] args) {
     String[] strArr1 = new String[1];
