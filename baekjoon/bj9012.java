@@ -16,7 +16,7 @@ public class bj9012 {
   }
 
   public static String solve(String s) {
-    Stack<Character> stack = new Stack<>();
+    Stack<Character> stack = new Stack<>(); //char형 스택 구현
 
     for(int i=0; i<s.length(); i++) {
       char c = s.charAt(i);
