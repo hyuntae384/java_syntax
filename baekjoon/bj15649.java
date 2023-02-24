@@ -21,8 +21,8 @@ public class bj15649 {
 
   public static void solve(int num, int len, int depth) {
     if(depth == len) {
-      for(int val : arr) {
-        System.out.print(val + " ");
+      for(int i=0; i<len; i++) {
+        System.out.print(arr[i] + " ");
       }
       System.out.println();
       return;
