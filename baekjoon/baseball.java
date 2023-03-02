@@ -7,6 +7,7 @@ package baekjoon;
 // 3아웃 또는 배열 종료시 게임 종료
 // 최종 점수 출력
 
+// 큐 사용해서 해보기
 public interface baseball {
   public static void main(String[] args) {
     int arr[] = {31,24,14,52,32,34,75,96,54,34};
