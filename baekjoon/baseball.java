@@ -6,6 +6,7 @@ package baekjoon;
 // 1: 1루타, 2: 2루타, 3: 3루타 , 4: 홈런, 0: 아웃,
 // 3아웃 또는 배열 종료시 게임 종료
 // 최종 점수 출력
+//
 
 // 큐 사용해서 해보기
 public interface baseball {
